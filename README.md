@@ -1,6 +1,6 @@
 # sketch-octicons
 
-[![sketch-octicons version v3.1.0](https://img.shields.io/badge/sketch--octicons-v3.1.0-green.svg?style=flat-square)](#) [![Download sketch-octicons at Github Releases](https://img.shields.io/github/downloads/JuanitoFatas/sketch-octicons/latest/total.svg?style=flat-square)](https://github.com/JuanitoFatas/sketch-octicons/releases)
+[![sketch-octicons version v3.1.0](https://img.shields.io/badge/sketch--octicons-v3.1.0-green.svg?style=flat-square)](https://github.com/JuanitoFatas/sketch-octicons/releases/tag/v3.1.0)
 
 [GitHub Octicons](https://github.com/github/octicons) collection of Symbols for [Sketch](https://www.sketchapp.com).
 
